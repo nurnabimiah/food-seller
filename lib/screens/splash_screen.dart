@@ -28,12 +28,19 @@ class _SplashScreenState extends State<SplashScreen> {
     });
   }
 
+
+
+
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
     startTimer();
   }
+
+//error solve
+
+
 
   @override
   Widget build(BuildContext context) {
